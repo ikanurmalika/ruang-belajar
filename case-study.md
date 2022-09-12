@@ -1,4 +1,4 @@
-# Case study: Basic use of Git and Github
+gi# Case study: Basic use of Git and Github
 
 ## Scenario 1
 
